@@ -6,4 +6,4 @@ These include, but are not limited to:
 - Searches
 - Optimization
 
-Check out my Data Structures repository for a better understanding!
+Also make sure to check out my Data Structures repository!
