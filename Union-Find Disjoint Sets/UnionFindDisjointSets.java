@@ -1,6 +1,13 @@
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * Class to represent useful and efficient methods that can be executed with the
+ * help of union-find disjoint sets
+ * 
+ * @author Ian Fernandes
+ *
+ */
 public class UnionFindDisjointSets {
 
 	/**
