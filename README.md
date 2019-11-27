@@ -1,9 +1,7 @@
 # Algorithms
-This repository will contain several fundamental algorithms in JAVA.
+This repository will contain several fundamental algorithms and their related data structures in JAVA.
 
 These include, but are not limited to:
 - Sorts
 - Searches
 - Optimization
-
-Also make sure to check out my Data Structures repository!
